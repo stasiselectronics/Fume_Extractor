@@ -31,7 +31,7 @@ P 3450 4700
 F 0 "U1" H 3850 4965 50  0000 C CNN
 F 1 "SP34063AEN" H 3850 4874 50  0000 C CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 4100 4050 50  0001 C CNN
-F 3 "" H 4100 4050 50  0001 C CNN
+F 3 "https://www.maxlinear.com/ds/sp34063a_ds_r211_020614.pdf" H 4100 4050 50  0001 C CNN
 	1    3450 4700
 	1    0    0    -1  
 $EndComp
@@ -360,7 +360,7 @@ P 4150 2450
 F 0 "U2" H 4575 3015 50  0000 C CNN
 F 1 "TP4056" H 4575 2924 50  0000 C CNN
 F 2 "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm" H 4150 2450 50  0001 C CNN
-F 3 "" H 4150 2450 50  0001 C CNN
+F 3 "https://dlnmh9ip6v2uc.cloudfront.net/datasheets/Prototyping/TP4056.pdf" H 4150 2450 50  0001 C CNN
 	1    4150 2450
 	1    0    0    -1  
 $EndComp
